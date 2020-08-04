@@ -16,3 +16,4 @@ Install a new game? Rerun the script to update your menu!
 3. Make it executable with `chmod +x generate-menu.sh`
 4. Run it via `./generate-menu.sh` !
 5. Set up a bash alias or bind a key via your WM to open the menu.
+6. Run the script whenever you install or uninstall a game to re-populate the list.
